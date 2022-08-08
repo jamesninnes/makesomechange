@@ -1,0 +1,8 @@
+{
+  "name": "makesomechange",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jamesninnes/makesomechange.git",
+  "author": "James <28035845+jamesninnes@users.noreply.github.com>",
+  "license": "MIT"
+}
